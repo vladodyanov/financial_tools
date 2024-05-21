@@ -29,11 +29,11 @@ The Financial Tools project aims to provide users with robust and easy-to-use fi
 
 
 ## Features
-# Profit and Loss Statement Calculator
+1. Profit and Loss Statement Calculator
     - Calculate revenues, expenses, and net profit
     - Generate detailed profit and loss statements
     - Historical data tracking for comparison
-# Cash Flow Forecast Calculator
+2. Cash Flow Forecast Calculator
     - Predict future cash inflows and outflows
     - Generate monthly and yearly cash flow forecasts
     - Visualize cash flow trends
