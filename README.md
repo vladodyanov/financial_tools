@@ -1,7 +1,8 @@
 # Financial Tools
-Welcome to the Financial Tools project! This repository contains two calculator applications designed to assist with financial analysis:
+Welcome to the Financial Tools project! This repository contains several calculator applications designed to assist with financial analysis:
 - Profit and Loss Statement Calculator
 - Cash Flow Forecast Calculator
+  
 These tools are built using Django Rest Framework (DRF) for the backend, and Swagger is used for API simulation and documentation. PostgreSQL is used as the database for storing the financial data
 
 ## Table of Contents
